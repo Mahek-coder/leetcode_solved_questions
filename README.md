@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1528-shuffle-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1768-merge-strings-alternately) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -40,4 +42,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1859-sorting-the-sentence) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
