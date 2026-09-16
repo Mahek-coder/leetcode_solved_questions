@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3866-first-unique-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3866-first-unique-even-element) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## String
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Enumeration
+|  |
+| ------- |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 <!---LeetCode Topics End-->
