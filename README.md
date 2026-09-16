@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3866-first-unique-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3866-first-unique-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3866-first-unique-even-element) |
 ## Bubble Sort
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0389-find-the-difference) |
+## Binary Search
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
