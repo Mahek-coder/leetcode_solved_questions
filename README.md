@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1748-sum-of-unique-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2404-most-frequent-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3866-first-unique-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1748-sum-of-unique-elements) |
+| [2404-most-frequent-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2404-most-frequent-even-element) |
 | [3866-first-unique-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1748-sum-of-unique-elements) |
+| [2404-most-frequent-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3866-first-unique-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3866-first-unique-even-element) |
 ## Bubble Sort
