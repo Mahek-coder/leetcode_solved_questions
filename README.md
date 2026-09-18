@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0819-most-common-word) |
 | [0896-monotonic-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0896-monotonic-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0819-most-common-word) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0819-most-common-word) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0819-most-common-word) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
