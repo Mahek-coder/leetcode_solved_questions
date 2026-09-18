@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0169-majority-element) |
+| [0500-keyboard-row](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0819-most-common-word) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0709-to-lower-case) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0771-jewels-and-stones) |
