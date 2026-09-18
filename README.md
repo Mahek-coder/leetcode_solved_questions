@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0819-most-common-word) |
 | [0896-monotonic-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0896-monotonic-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1207-unique-number-of-occurrences) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
