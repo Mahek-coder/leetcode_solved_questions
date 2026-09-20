@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1768-merge-strings-alternately) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1748-sum-of-unique-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2032-two-out-of-three](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2032-two-out-of-three) |
 | [2404-most-frequent-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2404-most-frequent-even-element) |
 | [3866-first-unique-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3866-first-unique-even-element) |
