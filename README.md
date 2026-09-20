@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3637-trionic-array-i](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3637-trionic-array-i) |
 | [3866-first-unique-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2032-two-out-of-three](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2032-two-out-of-three) |
 | [2404-most-frequent-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2404-most-frequent-even-element) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3866-first-unique-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
