@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3637-trionic-array-i](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3637-trionic-array-i) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3866-first-unique-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## String
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting Sort
 |  |
 | ------- |
