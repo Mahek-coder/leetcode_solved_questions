@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0645-set-mismatch) |
