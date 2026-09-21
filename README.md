@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0819-most-common-word) |
 | [0896-monotonic-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0896-monotonic-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1200-minimum-absolute-difference](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1331-rank-transform-of-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0645-set-mismatch) |
+| [1200-minimum-absolute-difference](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1859-sorting-the-sentence) |
