@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0500-keyboard-row) |
+| [0566-reshape-the-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0819-most-common-word) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0657-robot-return-to-origin) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Bit Manipulation
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
