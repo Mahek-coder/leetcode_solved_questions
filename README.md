@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0819-most-common-word) |
+| [0867-transpose-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0896-monotonic-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1200-minimum-absolute-difference) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0657-robot-return-to-origin) |
+| [0867-transpose-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0867-transpose-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -207,4 +209,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
