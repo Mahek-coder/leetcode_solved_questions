@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2032-two-out-of-three](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2032-two-out-of-three) |
+| [2057-smallest-index-with-equal-value](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2057-smallest-index-with-equal-value) |
 | [2404-most-frequent-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2553-separate-the-digits-in-an-array) |
