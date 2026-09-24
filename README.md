@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3637-trionic-array-i](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3637-trionic-array-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3866-first-unique-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3866-first-unique-even-element) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0268-missing-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
 | ------- |
