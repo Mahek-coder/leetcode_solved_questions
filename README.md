@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3637-trionic-array-i](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/3637-trionic-array-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0125-valid-palindrome) |
 | [0832-flipping-an-image](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0832-flipping-an-image) |
 | [1768-merge-strings-alternately](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1768-merge-strings-alternately) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Hash Table
 |  |
 | ------- |
