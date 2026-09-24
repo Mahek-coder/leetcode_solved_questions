@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0867-transpose-matrix) |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1572-matrix-diagonal-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
