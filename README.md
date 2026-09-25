@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0819-most-common-word) |
+| [0844-backspace-string-compare](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0844-backspace-string-compare) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1528-shuffle-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1768-merge-strings-alternately) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Hash Table
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0867-transpose-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Bit Manipulation
@@ -247,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
