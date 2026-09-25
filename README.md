@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0657-robot-return-to-origin) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0832-flipping-an-image) |
 | [1768-merge-strings-alternately](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1768-merge-strings-alternately) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0724-find-pivot-index) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
