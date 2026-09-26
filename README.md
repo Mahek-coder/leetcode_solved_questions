@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0268-missing-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
