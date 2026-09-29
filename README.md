@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0832-flipping-an-image) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Enumeration
