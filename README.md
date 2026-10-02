@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0414-third-maximum-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0832-flipping-an-image) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0268-missing-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
