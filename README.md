@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0867-transpose-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mahek-coder/leetcode_solved_questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
